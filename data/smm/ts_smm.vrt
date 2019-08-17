@@ -1,0 +1,235 @@
+<VRTDataset rasterXSize="3044" rasterYSize="794">
+  <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  1.1153841893741627e+02,  8.9831528411952165e-04,  0.0000000000000000e+00, -2.5449271999106045e+00,  0.0000000000000000e+00, -8.9831528411952165e-04</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_10_29.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_10_5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_12_16.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="4">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_3_22.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="5">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_5_14.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="6">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_6_7.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="7">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_7_25.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="8">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_8_18.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="9">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2015_9_11.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="10">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2016_1_9.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="11">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2016_12_5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="12">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2016_2_26.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="201" RasterYSize="201" DataType="UInt16" BlockXSize="201" BlockYSize="20" />
+      <SrcRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <DstRect xOff="0" yOff="0" xSize="201" ySize="201" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="13">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2016_6_3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="14">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2017_1_22.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="15">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2017_11_30.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="16">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2017_2_15.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="17">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2017_3_18.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="18">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2017_6_3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="19">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2018_12_2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="20">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2018_5_29.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="21">
+    <NoDataValue>65535</NoDataValue>
+    <ComplexSource>
+      <SourceFilename relativeToVRT="1">close_SMCmap_2019_5_31.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="93" RasterYSize="72" DataType="UInt16" BlockXSize="93" BlockYSize="44" />
+      <SrcRect xOff="0" yOff="0" xSize="93" ySize="72" />
+      <DstRect xOff="2951" yOff="722" xSize="93" ySize="72" />
+      <NODATA>65535</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
