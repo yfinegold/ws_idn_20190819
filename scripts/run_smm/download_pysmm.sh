@@ -2,7 +2,7 @@
 # Install PYSMM
 
 echo "Installing PYSMM"
-
+cd 
 mkdir smm
 cd smm
 virtualenv -p python2.7 env --system-site-packages
