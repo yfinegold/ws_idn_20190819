@@ -40,7 +40,7 @@ data_input <- basename(unlist(read.table("list_down.txt")))
 data_input    
 #### download
 for(data in data_input){
-  system(sprintf("drive pull %s",
+  system(sprintf("y | drive pull %s",
                  data))
 }
 
