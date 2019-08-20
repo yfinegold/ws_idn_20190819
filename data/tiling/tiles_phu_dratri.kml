@@ -10,38 +10,6 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
 		<SimpleData name="username">dratri</SimpleData>
-		<SimpleData name="tileID">68</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.657671577434,0.867876392382322 101.657671577434,1.04753862738053 101.837333812433,1.04753862738053 101.837333812433,0.867876392382322 101.657671577434,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
-		<SimpleData name="username">dratri</SimpleData>
-		<SimpleData name="tileID">69</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.867876392382322 101.837333812433,1.04753862738053 102.016996047431,1.04753862738053 102.016996047431,0.867876392382322 101.837333812433,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
-		<SimpleData name="username">dratri</SimpleData>
-		<SimpleData name="tileID">70</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.867876392382322 102.016996047431,1.04753862738053 102.196658282429,1.04753862738053 102.196658282429,0.867876392382322 102.016996047431,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
-		<SimpleData name="username">dratri</SimpleData>
-		<SimpleData name="tileID">71</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.867876392382322 102.196658282429,1.04753862738053 102.376320517427,1.04753862738053 102.376320517427,0.867876392382322 102.196658282429,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
-		<SimpleData name="username">dratri</SimpleData>
 		<SimpleData name="tileID">72</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.867876392382322 102.376320517427,1.04753862738053 102.555982752425,1.04753862738053 102.555982752425,0.867876392382322 102.376320517427,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -61,6 +29,38 @@
 		<SimpleData name="tileID">74</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.867876392382322 102.735644987424,1.04753862738053 102.915307222422,1.04753862738053 102.915307222422,0.867876392382322 102.735644987424,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.657671577434,0.688214157384119 101.657671577434,0.867876392382322 101.837333812433,0.867876392382322 101.837333812433,0.688214157384119 101.657671577434,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.688214157384119 101.837333812433,0.867876392382322 102.016996047431,0.867876392382322 102.016996047431,0.688214157384119 101.837333812433,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.688214157384119 102.016996047431,0.867876392382322 102.196658282429,0.867876392382322 102.196658282429,0.688214157384119 102.016996047431,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dratri">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.688214157384119 102.196658282429,0.867876392382322 102.376320517427,0.867876392382322 102.376320517427,0.688214157384119 102.196658282429,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>

@@ -10,38 +10,6 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
 		<SimpleData name="username">eoktavia</SimpleData>
-		<SimpleData name="tileID">84</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.915307222422,0.688214157384119 102.915307222422,0.867876392382322 103.09496945742,0.867876392382322 103.09496945742,0.688214157384119 102.915307222422,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
-		<SimpleData name="username">eoktavia</SimpleData>
-		<SimpleData name="tileID">86</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.508551922385915 101.837333812433,0.688214157384118 102.016996047431,0.688214157384118 102.016996047431,0.508551922385915 101.837333812433,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
-		<SimpleData name="username">eoktavia</SimpleData>
-		<SimpleData name="tileID">87</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.508551922385915 102.016996047431,0.688214157384118 102.196658282429,0.688214157384118 102.196658282429,0.508551922385915 102.016996047431,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
-		<SimpleData name="username">eoktavia</SimpleData>
-		<SimpleData name="tileID">88</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.508551922385915 102.196658282429,0.688214157384118 102.376320517427,0.688214157384118 102.376320517427,0.508551922385915 102.196658282429,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
-		<SimpleData name="username">eoktavia</SimpleData>
 		<SimpleData name="tileID">89</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.508551922385915 102.376320517427,0.688214157384118 102.555982752425,0.688214157384118 102.555982752425,0.508551922385915 102.376320517427,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -61,6 +29,46 @@
 		<SimpleData name="tileID">91</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.508551922385915 102.735644987424,0.688214157384118 102.915307222422,0.688214157384118 102.915307222422,0.508551922385915 102.735644987424,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
+		<SimpleData name="username">eoktavia</SimpleData>
+		<SimpleData name="tileID">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.915307222422,0.508551922385915 102.915307222422,0.688214157384118 103.09496945742,0.688214157384118 103.09496945742,0.508551922385915 102.915307222422,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
+		<SimpleData name="username">eoktavia</SimpleData>
+		<SimpleData name="tileID">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.328889687387712 101.837333812433,0.508551922385915 102.016996047431,0.508551922385915 102.016996047431,0.328889687387712 101.837333812433,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
+		<SimpleData name="username">eoktavia</SimpleData>
+		<SimpleData name="tileID">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.328889687387712 102.016996047431,0.508551922385915 102.196658282429,0.508551922385915 102.196658282429,0.328889687387712 102.016996047431,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
+		<SimpleData name="username">eoktavia</SimpleData>
+		<SimpleData name="tileID">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.328889687387712 102.196658282429,0.508551922385915 102.376320517427,0.508551922385915 102.376320517427,0.328889687387712 102.196658282429,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_eoktavia">
+		<SimpleData name="username">eoktavia</SimpleData>
+		<SimpleData name="tileID">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.328889687387712 102.376320517427,0.508551922385915 102.555982752425,0.508551922385915 102.555982752425,0.328889687387712 102.376320517427,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>

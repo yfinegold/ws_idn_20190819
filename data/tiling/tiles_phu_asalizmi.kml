@@ -10,14 +10,6 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
 		<SimpleData name="username">asalizmi</SimpleData>
-		<SimpleData name="tileID">20</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.94584980237154 100.939022637442,2.12551203736975 101.11868487244,2.12551203736975 101.11868487244,1.94584980237154 100.939022637442,1.94584980237154</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
-		<SimpleData name="username">asalizmi</SimpleData>
 		<SimpleData name="tileID">21</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>101.11868487244,1.94584980237154 101.11868487244,2.12551203736975 101.298347107438,2.12551203736975 101.298347107438,1.94584980237154 101.11868487244,1.94584980237154</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -61,6 +53,14 @@
 		<SimpleData name="tileID">29</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>101.298347107438,1.76618756737334 101.298347107438,1.94584980237154 101.478009342436,1.94584980237154 101.478009342436,1.76618756737334 101.298347107438,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.58652533237514 100.939022637442,1.76618756737334 101.11868487244,1.76618756737334 101.11868487244,1.58652533237514 100.939022637442,1.58652533237514</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>
