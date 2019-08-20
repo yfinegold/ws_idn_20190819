@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tiles_phu_adinugroho" id="tiles_phu_adinugroho">
+	<SimpleField name="username" type="string"></SimpleField>
+	<SimpleField name="tileID" type="float"></SimpleField>
+</Schema>
+<Folder><name>tiles_phu_adinugroho</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.040711462451,2.66449874236436 100.040711462451,2.84416097736256 100.220373697449,2.84416097736256 100.220373697449,2.66449874236436 100.040711462451,2.66449874236436</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.040711462451,2.48483650736615 100.040711462451,2.66449874236436 100.220373697449,2.66449874236436 100.220373697449,2.48483650736615 100.040711462451,2.48483650736615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.220373697449,2.48483650736615 100.220373697449,2.66449874236436 100.400035932447,2.66449874236436 100.400035932447,2.48483650736615 100.220373697449,2.48483650736615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.040711462451,2.30517427236795 100.040711462451,2.48483650736615 100.220373697449,2.48483650736615 100.220373697449,2.30517427236795 100.040711462451,2.30517427236795</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.220373697449,2.30517427236795 100.220373697449,2.48483650736615 100.400035932447,2.48483650736615 100.400035932447,2.30517427236795 100.220373697449,2.30517427236795</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.220373697449,2.12551203736975 100.220373697449,2.30517427236795 100.400035932447,2.30517427236795 100.400035932447,2.12551203736975 100.220373697449,2.12551203736975</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_adinugroho">
+		<SimpleData name="username">adinugroho</SimpleData>
+		<SimpleData name="tileID">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.400035932447,2.12551203736975 100.400035932447,2.30517427236795 100.579698167445,2.30517427236795 100.579698167445,2.12551203736975 100.400035932447,2.12551203736975</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

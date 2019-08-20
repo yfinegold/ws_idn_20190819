@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tiles_phu_dfernando" id="tiles_phu_dfernando">
+	<SimpleField name="username" type="string"></SimpleField>
+	<SimpleField name="tileID" type="float"></SimpleField>
+</Schema>
+<Folder><name>tiles_phu_dfernando</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,1.04753862738053 102.016996047431,1.22720086237873 102.196658282429,1.22720086237873 102.196658282429,1.04753862738053 102.016996047431,1.04753862738053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,1.04753862738053 102.196658282429,1.22720086237873 102.376320517427,1.22720086237873 102.376320517427,1.04753862738053 102.196658282429,1.04753862738053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,1.04753862738053 102.376320517427,1.22720086237873 102.555982752425,1.22720086237873 102.555982752425,1.04753862738053 102.376320517427,1.04753862738053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.657671577434,0.867876392382322 101.657671577434,1.04753862738053 101.837333812433,1.04753862738053 101.837333812433,0.867876392382322 101.657671577434,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.867876392382322 101.837333812433,1.04753862738053 102.016996047431,1.04753862738053 102.016996047431,0.867876392382322 101.837333812433,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.867876392382322 102.016996047431,1.04753862738053 102.196658282429,1.04753862738053 102.196658282429,0.867876392382322 102.016996047431,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dfernando">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.867876392382322 102.196658282429,1.04753862738053 102.376320517427,1.04753862738053 102.376320517427,0.867876392382322 102.196658282429,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

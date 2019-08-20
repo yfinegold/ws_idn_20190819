@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tiles_phu_dannunzio" id="tiles_phu_dannunzio">
+	<SimpleField name="username" type="string"></SimpleField>
+	<SimpleField name="tileID" type="float"></SimpleField>
+</Schema>
+<Folder><name>tiles_phu_dannunzio</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfadhillahhafnid</SimpleData>
+		<SimpleData name="tileID">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.867876392382322 102.016996047431,1.04753862738053 102.196658282429,1.04753862738053 102.196658282429,0.867876392382322 102.016996047431,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfadhillahhafnid</SimpleData>
+		<SimpleData name="tileID">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.867876392382322 102.196658282429,1.04753862738053 102.376320517427,1.04753862738053 102.376320517427,0.867876392382322 102.196658282429,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfadhillahhafnid</SimpleData>
+		<SimpleData name="tileID">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.867876392382322 102.376320517427,1.04753862738053 102.555982752425,1.04753862738053 102.555982752425,0.867876392382322 102.376320517427,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfadhillahhafnid</SimpleData>
+		<SimpleData name="tileID">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.555982752425,0.867876392382322 102.555982752425,1.04753862738053 102.735644987424,1.04753862738053 102.735644987424,0.867876392382322 102.555982752425,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.867876392382322 102.735644987424,1.04753862738053 102.915307222422,1.04753862738053 102.915307222422,0.867876392382322 102.735644987424,0.867876392382322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.657671577434,0.688214157384119 101.657671577434,0.867876392382322 101.837333812433,0.867876392382322 101.837333812433,0.688214157384119 101.657671577434,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.688214157384119 101.837333812433,0.867876392382322 102.016996047431,0.867876392382322 102.016996047431,0.688214157384119 101.837333812433,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.688214157384119 102.016996047431,0.867876392382322 102.196658282429,0.867876392382322 102.196658282429,0.688214157384119 102.016996047431,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.688214157384119 102.196658282429,0.867876392382322 102.376320517427,0.867876392382322 102.376320517427,0.688214157384119 102.196658282429,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.688214157384119 102.376320517427,0.867876392382322 102.555982752425,0.867876392382322 102.555982752425,0.688214157384119 102.376320517427,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.555982752425,0.688214157384119 102.555982752425,0.867876392382322 102.735644987424,0.867876392382322 102.735644987424,0.688214157384119 102.555982752425,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dfernando</SimpleData>
+		<SimpleData name="tileID">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.688214157384119 102.735644987424,0.867876392382322 102.915307222422,0.867876392382322 102.915307222422,0.688214157384119 102.735644987424,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.915307222422,0.688214157384119 102.915307222422,0.867876392382322 103.09496945742,0.867876392382322 103.09496945742,0.688214157384119 102.915307222422,0.688214157384119</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.508551922385915 101.837333812433,0.688214157384118 102.016996047431,0.688214157384118 102.016996047431,0.508551922385915 101.837333812433,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.508551922385915 102.016996047431,0.688214157384118 102.196658282429,0.688214157384118 102.196658282429,0.508551922385915 102.016996047431,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.508551922385915 102.196658282429,0.688214157384118 102.376320517427,0.688214157384118 102.376320517427,0.508551922385915 102.196658282429,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.508551922385915 102.376320517427,0.688214157384118 102.555982752425,0.688214157384118 102.555982752425,0.508551922385915 102.376320517427,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.555982752425,0.508551922385915 102.555982752425,0.688214157384118 102.735644987424,0.688214157384118 102.735644987424,0.508551922385915 102.555982752425,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.508551922385915 102.735644987424,0.688214157384118 102.915307222422,0.688214157384118 102.915307222422,0.508551922385915 102.735644987424,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.915307222422,0.508551922385915 102.915307222422,0.688214157384118 103.09496945742,0.688214157384118 103.09496945742,0.508551922385915 102.915307222422,0.508551922385915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dratri</SimpleData>
+		<SimpleData name="tileID">93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,0.328889687387712 101.837333812433,0.508551922385915 102.016996047431,0.508551922385915 102.016996047431,0.328889687387712 101.837333812433,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.016996047431,0.328889687387712 102.016996047431,0.508551922385915 102.196658282429,0.508551922385915 102.196658282429,0.328889687387712 102.016996047431,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.196658282429,0.328889687387712 102.196658282429,0.508551922385915 102.376320517427,0.508551922385915 102.376320517427,0.328889687387712 102.196658282429,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.376320517427,0.328889687387712 102.376320517427,0.508551922385915 102.555982752425,0.508551922385915 102.555982752425,0.328889687387712 102.376320517427,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.555982752425,0.328889687387712 102.555982752425,0.508551922385915 102.735644987424,0.508551922385915 102.735644987424,0.328889687387712 102.555982752425,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.735644987424,0.328889687387712 102.735644987424,0.508551922385915 102.915307222422,0.508551922385915 102.915307222422,0.328889687387712 102.735644987424,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>102.915307222422,0.328889687387712 102.915307222422,0.508551922385915 103.09496945742,0.508551922385915 103.09496945742,0.328889687387712 102.915307222422,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>108.844160977363,0.328889687387712 108.844160977363,0.508551922385915 109.023823212361,0.508551922385915 109.023823212361,0.328889687387712 108.844160977363,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_dannunzio">
+		<SimpleData name="username">dwicaksono</SimpleData>
+		<SimpleData name="tileID">102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>109.023823212361,0.328889687387712 109.023823212361,0.508551922385915 109.203485447359,0.508551922385915 109.203485447359,0.328889687387712 109.023823212361,0.328889687387712</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

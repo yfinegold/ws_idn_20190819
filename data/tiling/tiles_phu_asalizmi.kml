@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="tiles_phu_asalizmi" id="tiles_phu_asalizmi">
+	<SimpleField name="username" type="string"></SimpleField>
+	<SimpleField name="tileID" type="float"></SimpleField>
+</Schema>
+<Folder><name>tiles_phu_asalizmi</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.11868487244,1.94584980237154 101.11868487244,2.12551203736975 101.298347107438,2.12551203736975 101.298347107438,1.94584980237154 101.11868487244,1.94584980237154</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.220373697449,1.76618756737334 100.220373697449,1.94584980237154 100.400035932447,1.94584980237154 100.400035932447,1.76618756737334 100.220373697449,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.400035932447,1.76618756737334 100.400035932447,1.94584980237154 100.579698167445,1.94584980237154 100.579698167445,1.76618756737334 100.400035932447,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.76618756737334 100.939022637442,1.94584980237154 101.11868487244,1.94584980237154 101.11868487244,1.76618756737334 100.939022637442,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.11868487244,1.76618756737334 101.11868487244,1.94584980237154 101.298347107438,1.94584980237154 101.298347107438,1.76618756737334 101.11868487244,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.298347107438,1.76618756737334 101.298347107438,1.94584980237154 101.478009342436,1.94584980237154 101.478009342436,1.76618756737334 101.298347107438,1.76618756737334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asalizmi">
+		<SimpleData name="username">asalizmi</SimpleData>
+		<SimpleData name="tileID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.58652533237514 100.939022637442,1.76618756737334 101.11868487244,1.76618756737334 101.11868487244,1.58652533237514 100.939022637442,1.58652533237514</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

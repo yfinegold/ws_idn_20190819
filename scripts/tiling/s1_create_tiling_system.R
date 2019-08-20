@@ -48,7 +48,8 @@ sqr_df <- generate_grid(country,grid_deg)
 nrow(sqr_df)
 
 ### Select a vector from location of another vector
-aoi <- readOGR(paste0(phu_dir,"107_PHU_BOUNDARY.shp"))
+# aoi <- readOGR(paste0(phu_dir,"107_PHU_BOUNDARY.shp"))
+aoi <- readOGR(paste0(phu_dir,"25_KHG_SEPAL.shp"))
 
 #aoi_3phu <- aoi[aoi$KODE_KHG %in% c("KHG.16.02.01","KHG.16.02.08","KHG.16.02.02"),]
 
@@ -73,9 +74,9 @@ tiles <- sqr_df_selected
 ### Distribute samples among users
 dt <- tiles@data
 
-users <- read.csv(paste0(doc_dir,"participants_workshop_20190611.csv"))
-
-du    <- data.frame(cbind(users$UserName,dt$tileID))
+users <- read.csv(paste0(doc_dir,"participants_20190819.csv"))
+head(users)
+du    <- data.frame(cbind(users$username,dt$tileID))
 names(du) <- c("username","tileID")
 du <- arrange(du,username)
 
@@ -98,10 +99,36 @@ writeOGR(obj=tiles,
          driver = "KML",
          overwrite_layer = T)
 
+writeOGR(obj=tiles,
+         dsn=paste(tile_dir,export_name,".shp",sep=""),
+         layer= export_name,
+         driver = "ESRI Shapefile",
+         overwrite_layer = T)
+
 
 ### Create a final subset corresponding to your username
 my_tiles <- tiles[tiles$tileID %in% df[df$username == username,"tileID"],]
 plot(my_tiles,add=T,col="red")
+
+for (user in unique(df$username))
+{
+  print(user)
+  export_name <- paste0("tiles_phu_",user)
+  my_tiles <- tiles[tiles$tileID %in% df[df$username == user,"tileID"],]
+  plot(my_tiles,add=T,col="red")
+  writeOGR(obj=my_tiles,
+           dsn=paste(tile_dir,export_name,".kml",sep=""),
+           layer= export_name,
+           driver = "KML",
+           overwrite_layer = T)
+  writeOGR(obj=tiles,
+           dsn=paste(tile_dir,export_name,".shp",sep=""),
+           layer= export_name,
+           driver = "ESRI Shapefile",
+           overwrite_layer = T)
+  
+  
+}
 
 ### Export the final subset
 export_name <- paste0("tiles_phu_",username)
