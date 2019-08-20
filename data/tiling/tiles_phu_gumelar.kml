@@ -10,6 +10,38 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
 		<SimpleData name="username">gumelar</SimpleData>
+		<SimpleData name="tileID">139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.274631692418,-1.10840819259791 103.274631692418,-0.928745957599711 103.454293927416,-0.928745957599711 103.454293927416,-1.10840819259791 103.274631692418,-1.10840819259791</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
+		<SimpleData name="username">gumelar</SimpleData>
+		<SimpleData name="tileID">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.454293927416,-1.10840819259791 103.454293927416,-0.928745957599711 103.633956162415,-0.928745957599711 103.633956162415,-1.10840819259791 103.454293927416,-1.10840819259791</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
+		<SimpleData name="username">gumelar</SimpleData>
+		<SimpleData name="tileID">141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.633956162415,-1.10840819259791 103.633956162415,-0.928745957599711 103.813618397413,-0.928745957599711 103.813618397413,-1.10840819259791 103.633956162415,-1.10840819259791</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
+		<SimpleData name="username">gumelar</SimpleData>
+		<SimpleData name="tileID">143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.274631692418,-1.28807042759612 103.274631692418,-1.10840819259792 103.454293927416,-1.10840819259792 103.454293927416,-1.28807042759612 103.274631692418,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
+		<SimpleData name="username">gumelar</SimpleData>
 		<SimpleData name="tileID">144</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>103.454293927416,-1.28807042759612 103.454293927416,-1.10840819259792 103.633956162415,-1.10840819259792 103.633956162415,-1.28807042759612 103.454293927416,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -29,46 +61,6 @@
 		<SimpleData name="tileID">146</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>103.813618397413,-1.28807042759612 103.813618397413,-1.10840819259792 103.993280632411,-1.10840819259792 103.993280632411,-1.28807042759612 103.813618397413,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
-		<SimpleData name="username">gumelar</SimpleData>
-		<SimpleData name="tileID">147</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.993280632411,-1.28807042759612 103.993280632411,-1.10840819259792 104.172942867409,-1.10840819259792 104.172942867409,-1.28807042759612 103.993280632411,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
-		<SimpleData name="username">gumelar</SimpleData>
-		<SimpleData name="tileID">148</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.172942867409,-1.28807042759612 104.172942867409,-1.10840819259792 104.352605102407,-1.10840819259792 104.352605102407,-1.28807042759612 104.172942867409,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
-		<SimpleData name="username">gumelar</SimpleData>
-		<SimpleData name="tileID">149</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.352605102407,-1.28807042759612 104.352605102407,-1.10840819259792 104.532267337406,-1.10840819259792 104.532267337406,-1.28807042759612 104.352605102407,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
-		<SimpleData name="username">gumelar</SimpleData>
-		<SimpleData name="tileID">150</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.454293927416,-1.46773266259432 103.454293927416,-1.28807042759612 103.633956162415,-1.28807042759612 103.633956162415,-1.46773266259432 103.454293927416,-1.46773266259432</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gumelar">
-		<SimpleData name="username">gumelar</SimpleData>
-		<SimpleData name="tileID">151</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.633956162415,-1.46773266259432 103.633956162415,-1.28807042759612 103.813618397413,-1.28807042759612 103.813618397413,-1.46773266259432 103.633956162415,-1.46773266259432</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>

@@ -10,6 +10,54 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
 		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.172942867409,-1.46773266259432 104.172942867409,-1.28807042759612 104.352605102407,-1.28807042759612 104.352605102407,-1.46773266259432 104.172942867409,-1.46773266259432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>114.773014732303,-1.46773266259432 114.773014732303,-1.28807042759612 114.952676967301,-1.28807042759612 114.952676967301,-1.46773266259432 114.773014732303,-1.46773266259432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.454293927416,-1.64739489759252 103.454293927416,-1.46773266259432 103.633956162415,-1.46773266259432 103.633956162415,-1.64739489759252 103.454293927416,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.633956162415,-1.64739489759252 103.633956162415,-1.46773266259432 103.813618397413,-1.46773266259432 103.813618397413,-1.64739489759252 103.633956162415,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.813618397413,-1.64739489759252 103.813618397413,-1.46773266259432 103.993280632411,-1.46773266259432 103.993280632411,-1.64739489759252 103.813618397413,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
+		<SimpleData name="tileID">161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.993280632411,-1.64739489759252 103.993280632411,-1.46773266259432 104.172942867409,-1.46773266259432 104.172942867409,-1.64739489759252 103.993280632411,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
+		<SimpleData name="username">kartika</SimpleData>
 		<SimpleData name="tileID">162</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>114.413690262307,-1.64739489759252 114.413690262307,-1.46773266259432 114.593352497305,-1.46773266259432 114.593352497305,-1.64739489759252 114.413690262307,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -21,54 +69,6 @@
 		<SimpleData name="tileID">163</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>114.593352497305,-1.64739489759252 114.593352497305,-1.46773266259432 114.773014732303,-1.46773266259432 114.773014732303,-1.64739489759252 114.593352497305,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">164</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>114.773014732303,-1.64739489759252 114.773014732303,-1.46773266259432 114.952676967301,-1.46773266259432 114.952676967301,-1.64739489759252 114.773014732303,-1.64739489759252</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">165</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.633956162415,-1.82705713259073 103.633956162415,-1.64739489759253 103.813618397413,-1.64739489759253 103.813618397413,-1.82705713259073 103.633956162415,-1.82705713259073</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">166</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.813618397413,-1.82705713259073 103.813618397413,-1.64739489759253 103.993280632411,-1.64739489759253 103.993280632411,-1.82705713259073 103.813618397413,-1.82705713259073</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">167</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.993280632411,-1.82705713259073 103.993280632411,-1.64739489759253 104.172942867409,-1.64739489759253 104.172942867409,-1.82705713259073 103.993280632411,-1.82705713259073</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">168</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>114.413690262307,-1.82705713259073 114.413690262307,-1.64739489759253 114.593352497305,-1.64739489759253 114.593352497305,-1.82705713259073 114.413690262307,-1.82705713259073</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_kartika">
-		<SimpleData name="username">kartika</SimpleData>
-		<SimpleData name="tileID">169</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>114.593352497305,-1.82705713259073 114.593352497305,-1.64739489759253 114.773014732303,-1.64739489759253 114.773014732303,-1.82705713259073 114.593352497305,-1.82705713259073</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>
