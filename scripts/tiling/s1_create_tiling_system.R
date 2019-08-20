@@ -27,11 +27,11 @@ plot(country)
 country$OBJECTID <- row(country)[,1]
 
 ##  Export the SpatialPolygonDataFrame as a ESRI Shapefile
-writeOGR(country,
-         paste0(gadm_dir,"gadm_",countrycode,"_l1.shp"),
-         paste0("gadm_",countrycode,"_l1"),
-         "ESRI Shapefile",
-         overwrite_layer = T)
+# writeOGR(country,
+#          paste0(gadm_dir,"gadm_",countrycode,"_l1.shp"),
+#          paste0("gadm_",countrycode,"_l1"),
+#          "ESRI Shapefile",
+#          overwrite_layer = T)
 
 
 ####################################################################################################
@@ -59,9 +59,9 @@ sqr_df_selected <- sqr_df[aoi,]
 nrow(sqr_df_selected)
 
 ### Plot the results
-plot(sqr_df_selected)
-plot(aoi,add=T,border="blue")
-plot(country,add=T,border="green")
+# plot(sqr_df_selected)
+# plot(aoi,add=T,border="blue")
+# plot(country,add=T,border="green")
 
 ### Give the output a decent name, with unique ID
 names(sqr_df_selected@data) <- "tileID" 
@@ -117,6 +117,7 @@ for (user in unique(df$username))
   export_name <- paste0("tiles_phu_",user)
   my_tiles <- tiles[tiles$tileID %in% df[df$username == user,"tileID"],]
   plot(my_tiles,add=T,col="red")
+  print(table(my_tiles$username))
   writeOGR(obj=my_tiles,
            dsn=paste(tile_dir,export_name,".kml",sep=""),
            layer= export_name,
