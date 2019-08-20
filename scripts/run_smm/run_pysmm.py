@@ -54,3 +54,5 @@ for a, b, c in itertools.product( year1, month1, day1):
             mask='Globcover',
             masksnow=False,
             overwrite=True)
+    print('123')
+print('4567')
