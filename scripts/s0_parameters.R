@@ -67,7 +67,7 @@ gwl_dir <-   paste0(rootdir,"data/gwl/")
 dir.create(gadm_dir,showWarnings = F)
 dir.create(tile_dir,showWarnings = F)
 dir.create(bfst_dir,showWarnings = F)
-dir.create(smm_dir,showWarnings = F)
+dir.create(smm_dir,showWarnings = F, recursive=T)
 dir.create(gwl_dir,showWarnings = F)
 
 
