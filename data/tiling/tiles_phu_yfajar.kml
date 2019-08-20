@@ -10,14 +10,6 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_yfajar">
 		<SimpleData name="username">yfajar</SimpleData>
-		<SimpleData name="tileID">282</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>114.234028027309,-3.08469277757815 114.234028027309,-2.90503054257995 114.413690262307,-2.90503054257995 114.413690262307,-3.08469277757815 114.234028027309,-3.08469277757815</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_yfajar">
-		<SimpleData name="username">yfajar</SimpleData>
 		<SimpleData name="tileID">287</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>113.156054617319,-3.26435501257636 113.156054617319,-3.08469277757815 113.335716852318,-3.08469277757815 113.335716852318,-3.26435501257636 113.156054617319,-3.26435501257636</coordinates></LinearRing></outerBoundaryIs></Polygon>

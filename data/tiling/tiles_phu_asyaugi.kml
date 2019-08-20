@@ -10,6 +10,14 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asyaugi">
 		<SimpleData name="username">asyaugi</SimpleData>
+		<SimpleData name="tileID">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.58652533237514 100.939022637442,1.76618756737334 101.11868487244,1.76618756737334 101.11868487244,1.58652533237514 100.939022637442,1.58652533237514</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asyaugi">
+		<SimpleData name="username">asyaugi</SimpleData>
 		<SimpleData name="tileID">31</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>101.11868487244,1.58652533237514 101.11868487244,1.76618756737334 101.298347107438,1.76618756737334 101.298347107438,1.58652533237514 101.11868487244,1.58652533237514</coordinates></LinearRing></outerBoundaryIs></Polygon>
@@ -45,22 +53,6 @@
 		<SimpleData name="tileID">35</SimpleData>
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>101.837333812433,1.58652533237514 101.837333812433,1.76618756737334 102.016996047431,1.76618756737334 102.016996047431,1.58652533237514 101.837333812433,1.58652533237514</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asyaugi">
-		<SimpleData name="username">asyaugi</SimpleData>
-		<SimpleData name="tileID">36</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>100.939022637442,1.40686309737693 100.939022637442,1.58652533237513 101.11868487244,1.58652533237513 101.11868487244,1.40686309737693 100.939022637442,1.40686309737693</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_asyaugi">
-		<SimpleData name="username">asyaugi</SimpleData>
-		<SimpleData name="tileID">37</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>101.11868487244,1.40686309737693 101.11868487244,1.58652533237513 101.298347107438,1.58652533237513 101.298347107438,1.40686309737693 101.11868487244,1.40686309737693</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
 </Folder>
 </Document></kml>

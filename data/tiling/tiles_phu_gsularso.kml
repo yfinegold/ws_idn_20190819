@@ -62,13 +62,5 @@
 	</SchemaData></ExtendedData>
       <Polygon><outerBoundaryIs><LinearRing><coordinates>103.633956162415,-1.10840819259791 103.633956162415,-0.928745957599711 103.813618397413,-0.928745957599711 103.813618397413,-1.10840819259791 103.633956162415,-1.10840819259791</coordinates></LinearRing></outerBoundaryIs></Polygon>
   </Placemark>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#tiles_phu_gsularso">
-		<SimpleData name="username">gsularso</SimpleData>
-		<SimpleData name="tileID">143</SimpleData>
-	</SchemaData></ExtendedData>
-      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.274631692418,-1.28807042759612 103.274631692418,-1.10840819259792 103.454293927416,-1.10840819259792 103.454293927416,-1.28807042759612 103.274631692418,-1.28807042759612</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
 </Folder>
 </Document></kml>

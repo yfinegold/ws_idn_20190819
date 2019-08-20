@@ -70,6 +70,7 @@ sqr_df_selected@data$tileID <- row(sqr_df_selected@data)[,1]
 tiles <- sqr_df_selected
 
 
+tiles <- readOGR(paste0(tile_dir,"tiling_all_phu_edit.shp"))
 
 ### Distribute samples among users
 dt <- tiles@data
@@ -107,9 +108,9 @@ writeOGR(obj=tiles,
 
 
 ### Create a final subset corresponding to your username
-my_tiles <- tiles[tiles$tileID %in% df[df$username == username,"tileID"],]
 plot(my_tiles,add=T,col="red")
-
+table(tiles@data$username)
+plot(tiles)
 for (user in unique(df$username))
 {
   print(user)
@@ -130,12 +131,12 @@ for (user in unique(df$username))
   
 }
 
-### Export the final subset
-export_name <- paste0("tiles_phu_",username)
-
-writeOGR(obj=my_tiles,
-         dsn=paste(tile_dir,export_name,".kml",sep=""),
-         layer= export_name,
-         driver = "KML",
-         overwrite_layer = T)
-
+# ### Export the final subset
+# export_name <- paste0("tiles_phu_",username)
+# 
+# writeOGR(obj=my_tiles,
+#          dsn=paste(tile_dir,export_name,".kml",sep=""),
+#          layer= export_name,
+#          driver = "KML",
+#          overwrite_layer = T)
+# 
