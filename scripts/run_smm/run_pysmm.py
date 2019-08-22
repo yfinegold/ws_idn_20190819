@@ -32,27 +32,25 @@ minlat= float(sys.argv[5])
 maxlon= float(sys.argv[6])
 maxlat= float(sys.argv[7])
 
-
-
+attribute_values = sys.argv[8]
+print(attribute_values)
+print(user + '_' + str(attribute_values))
 # year1= [2018]
 # month1= [6]
 # day1= [1]
 
 for a, b, c in itertools.product( year1, month1, day1):
-
     print a
     print b
     print c
-
     get_map(minlon , minlat ,maxlon, maxlat,
             '/data/home/' + user + '/',
             sampling=100,
-        year=a, month=b, day=c,
+            year=a, month=b, day=c,
        # year=int(sys.argv[1]), month=int(sys.argv[2]), day=int(sys.argv[3]),
             tracknr=None,
             tempfilter=True,
             mask='Globcover',
             masksnow=False,
-            overwrite=True)
-    print('123')
-print('4567')
+            overwrite=True,
+            filename=user + '_' + str(attribute_values))
