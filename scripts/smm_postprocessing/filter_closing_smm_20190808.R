@@ -4,9 +4,7 @@ options(echo=TRUE)
 args <- commandArgs(TRUE)
 print(args[1])
 the_folder_you_want <- args[1]
-
 res_dir <- paste0(smm_dir,"extra/")
-
 postprocess_pysmm <- function(tile_dir){
   
   tile_dir <- paste0(tile_dir,"/")
@@ -49,6 +47,7 @@ postprocess_pysmm <- function(tile_dir){
   ))
   
   r <- brick(paste0(tile_dir,"ts_smm.vrt"))
+  NAvalue(r) <- 0
   
   fn2 <- substr(list,nchar(base)+1,nchar(list)-4)
   
@@ -58,7 +57,7 @@ postprocess_pysmm <- function(tile_dir){
     if(all(is.na(y))) {
       NA
     } else {
-      m = lm(y ~ Date); summary(m)$coefficients[2] 
+      m = lm(y ~ Date, na.action=na.omit); summary(m)$coefficients[2] 
     }
   }
   ## and this one is to calculate the p-value
@@ -66,18 +65,22 @@ postprocess_pysmm <- function(tile_dir){
     if(all(is.na(y))) {
       NA
     } else {
-      m = lm(y ~ Date); summary(m)$coefficients[8] 
+      m = lm(y ~ Date, na.action=na.omit); summary(m)$coefficients[8] 
     }
   }
   
   slope <- calc(r, fun_slope)
   pvalue <- calc(r,fun_pvalue)
+  mean <- calc(r, fun = mean, na.rm = T)
+  stdv <- calc(r, fun = sd, na.rm = T)
   
-  plot(slope)
-  plot(pvalue)
+  # plot(slope)
+  # plot(pvalue)
   
   writeRaster(slope,paste0(tile_dir,"slope.tif"),overwrite=T)
   writeRaster(pvalue,paste0(tile_dir,"pvalue.tif"),overwrite=T)
+  writeRaster(mean,paste0(tile_dir,"mean.tif"),overwrite=T)
+  writeRaster(stdv,paste0(tile_dir,"stdv.tif"),overwrite=T)
   
 }
 
@@ -85,5 +88,4 @@ for(tile_dir in list.dirs(res_dir)[-1]){
   postprocess_pysmm(tile_dir)}
 
 postprocess_pysmm(the_folder_you_want)
-
 
