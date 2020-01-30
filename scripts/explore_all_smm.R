@@ -2,10 +2,14 @@
 ### SET UP PARAMETERS FOR ANALYSIS
 
 ## COORDINATES TO ASSESS SOIL MOISTURE TIME SERIES
+
 crd <- cbind(114.06038,-3.22315)
+crd <- cbind(113.7631,-2.902878)
+# crd <- cbind(105.232200,-3.019940)
+# crd <- cbind(105.19544,-3.18007)
 
 ## DEFINE SEASONS - NOTE IT USES THE FIRST OF EACH MONTH 
-dry.months <- c(6,7,8,9)
+dry.months <- c(7,8,9,10)
 rainy.months <- c(1,2,3,4,5,10,11,12)
 
 ###############################################################
@@ -20,19 +24,21 @@ smm_dir <- '~/ws_idn_20190819/data/smm_phu/all_smm/'
 all.smm.ras <-  brick(paste0(smm_dir,'all_phu_smm.tif'))
 all.smm.dat <-  read.csv(paste0(smm_dir,'all_phu_smm.csv'))
 # plot(all.smm.ras[[99]])
-head(all.smm.dat[,1:3])
+tail(all.smm.dat[,1:3])
 
 ###############################################################
 ###############################################################
 ## FIRST ASSESS ALL THE TIME SERIES
 ts.date <- unlist(all.smm.dat[,2])
 x <- raster::extract(all.smm.ras,crd)
+table(x)
 y <- rbind(x,ts.date)
 z <- t(y)
 colnames(z) <- c('ts','date')
 z <- as.data.frame(z[z[,1]>0,])
 z$date <- as.Date(z$date)
 z$ts <- as.numeric(z$ts)
+head(z)
 ### explore the data
 # plot a histogram of the soil moisture values for one point over time
 soil.moisture <- unname(x[1,])
@@ -76,11 +82,21 @@ dry.sub <- as.Date((paste(minyear:maxyear,rep(c(dry.months[1],dry.months[length(
 dry.sub <- dry.sub[order(dry.sub)]
 # str(dry.sub[1:2])
 
-dry.sub.ts <- ts[!ts$date>=dry.sub[1] & ts$date<=dry.sub[2],]
-print(dry.sub.ts)
+#dry.sub.ts <- ts[!ts$date>=dry.sub[1] & ts$date<=dry.sub[2],]
+#print(dry.sub.ts)
 
 # subset dry and wet season
 ## this needs to made more flexible to take any number of months of dry/wet
+
+library(data.table)
+library(lubridate)
+# %anywhere% returns TRUE if mydata is within any mIntervals, else FALSE
+beg <- seq.Date(from = as.Date(dry.sub[1] ), to = as.Date(tail(dry.sub, n=1)), by = 'years') # base
+nd  <- seq.Date(from = as.Date(dry.sub[2] ), to = as.Date(tail(dry.sub, n=1)), by = 'years') # base
+
+mIntervals <- interval()
+ans <- dry.sub.ts[!dry.sub.ts %anywhere% mIntervals] 
+
 dry.sub.ts <- z[z$date>=dry.sub[1] & z$date<=dry.sub[2]
                 |
                   z$date>=dry.sub[3] & z$date<=dry.sub[4]
@@ -90,13 +106,14 @@ dry.sub.ts <- z[z$date>=dry.sub[1] & z$date<=dry.sub[2]
                   z$date>=dry.sub[7] & z$date<=dry.sub[8]
                 |
                   z$date>=dry.sub[9] & z$date<=dry.sub[10]
-                #    |
-                #    z$date>=dry.sub[11] & z$date<=dry.sub[12]
+                   # |
+                   # z$date>=dry.sub[11] & z$date<=dry.sub[12]
                 ,]  
 wet.sub.ts <- z[!z$date %in%dry.sub.ts$date,]
 
 ###############################################################
 ###############################################################
+
 ## PLOT DRY SEASON 
 g <- ggplot(dry.sub.ts, aes(date, ts)) + 
   geom_line() +

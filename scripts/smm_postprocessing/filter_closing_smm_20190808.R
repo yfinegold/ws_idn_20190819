@@ -18,7 +18,7 @@ postprocess_pysmm <- function(tile_dir){
     
     date <- substr(file,nchar(base)+1,nchar(file)-4)
     
-    system(sprintf("otbcli_GrayScaleMorphologicalOperation -in %s -out %s -structype %s -structype.ball.xradius %s -structype.ball.yradius %s -filter closing",
+    system(sprintf("otbcli_GrayScaleMorphologicalOperation -in %s -out %s -structype %s -xradius %s -yradius %s -filter closing",
                    paste0(tile_dir,file),             
                    paste0(tile_dir,"tmp_closing.tif"),
                    "ball",
